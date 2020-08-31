@@ -1,6 +1,6 @@
 export default function manageTodo(state = {
   todos: [],
-}, action) {
+ }, action) {
 
   console.log("reducer received this action:", action);
 
